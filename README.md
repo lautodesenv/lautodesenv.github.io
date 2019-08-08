@@ -26,6 +26,7 @@ O processo será composto de duas estapas:
    Primeiro queremos você desenvolva o front-end de um webapp de e-commerce com _pelo menos_ três telas: landing page, listagem de produtos e tela do produto.
 
    Temos alguns objetos JSON com metadados de produtos extraídos da internet para te ajudar nessa tarefa, disponíveis nesse repositório.
+   ~~tiramos lá do ebay :D~~
 
    O seu projeto deve ser publica no github e você nos envia o link junto com o seu currículo para os e-mails __filipe.monteiro@lauto.com.br__ e __alexandre.varella@lauto.com.br__. 
 
